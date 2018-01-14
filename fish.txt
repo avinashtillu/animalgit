@@ -1,1 +1,2 @@
-fish is an animal
+whale is a fish
+sharke is afish
